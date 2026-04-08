@@ -18,7 +18,7 @@ annotated resources do not exist for a target language.
   markers drive manipulation detection in English political text.
 - **H3 (Resource gap):** A systematic survey of available corpora will
   confirm the absence of open persuasion-annotated datasets for Kazakh
-  and Russian — directly motivating future thesis work.
+  and Russian directly motivating future thesis work.
 
 ## Datasets
 
