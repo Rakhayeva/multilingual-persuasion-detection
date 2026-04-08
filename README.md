@@ -1,5 +1,3 @@
-# multilingual-persuasion-detection
-
 # Multilingual Persuasion Detection
 ### English · Kazakh · Russian
 
