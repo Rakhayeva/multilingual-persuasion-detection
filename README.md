@@ -8,7 +8,7 @@ NLP resource gap.
 ## Motivation
 Most persuasion detection research is English-only. This project
 investigates whether models trained on English political text can
-transfer to Kazakh and Russian — and documents what happens when
+transfer to Kazakh and Russian and documents what happens when
 annotated resources do not exist for a target language.
 
 ## Research Hypotheses
@@ -33,7 +33,7 @@ technique annotation exists for either language. The baiangali dataset
 is used as a proxy task (fake/real news) to study cross-lingual
 transfer. SemEval-2023 Task 3, which includes Russian political news
 with persuasion annotation, requires institutional affiliation for
-access — confirming the resource barrier documented in this project.
+access, confirming the resource barrier documented in this project.
 
 ## Project Structure
 ```
