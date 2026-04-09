@@ -68,7 +68,7 @@ A systematic search for open persuasion-annotated corpora revealed:
 - **Russian:** The only known corpus (SemEval-2023 Task 3) requires
   institutional verification for access.
 
-This gap is not a limitation of this project — it is one of its
+This gap is not a limitation of this project, it is one of its
 findings, and a primary motivation for the planned MSc thesis.
 
 ## SHAP Analysis
@@ -84,7 +84,7 @@ This project is a preliminary empirical study for the MSc thesis proposal:
 
 ## How to Reproduce
 ```bash
-git clone https://github.com/YOUR_NAME/multilingual-persuasion-detection
+git clone https://github.com/Rakhayeva/multilingual-persuasion-detection
 # Open notebooks in Google Colab
 # Mount Google Drive and set BASE path
 # Run notebooks in order: 01 → 02 → 03 → 04 → 05 → 06 → 07
