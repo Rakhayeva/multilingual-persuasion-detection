@@ -63,14 +63,16 @@ persuasion annotation, requires institutional affiliation for access,
 confirming the resource barrier documented in this project.
 
 ## Project Structure
+```
 notebooks/
 ├── 01_data_loading.ipynb         # Data acquisition and parsing
 ├── 02_eda.ipynb                  # Exploratory data analysis
-├── 03_preprocessing.ipynb       # Text cleaning and train/val/test split
-├── 04_baseline_models.ipynb     # TF-IDF + Logistic Regression / SVM
+├── 03_preprocessing.ipynb        # Text cleaning and train/val/test split
+├── 04_baseline_models.ipynb      # TF-IDF + Logistic Regression / SVM
 ├── 05_transformer_experiments.ipynb  # XLM-RoBERTa fine-tuning
 ├── 06_shap_explainability.ipynb  # SHAP analysis (H2)
-└── 07_resource_gap.ipynb        # Resource gap documentation (H3)
+└── 07_resource_gap.ipynb         # Resource gap documentation (H3)
+```
 
 ## Results
 
@@ -100,7 +102,7 @@ complete transfer failure.
 
 ## SHAP Analysis: Manipulation Markers in English (H2)
 
-![SHAP Top-20](https://drive.google.com/uc?export=view&id=ТВОЙ_FILE_ID](https://drive.google.com/file/d/1cHeIIy9E7c7570bU2Px6oboLYHRDHTqW/view?usp=sharing)
+![SHAP Top-20](https://drive.google.com/uc?export=view&id=1cHelIy9E7c7570bU2Px6oboLYHRDHTqW)
 
 SHAP analysis of the LR model addresses the explainability challenge
 identified by Bassi et al. (2024) as central to responsible
