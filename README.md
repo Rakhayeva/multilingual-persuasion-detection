@@ -64,13 +64,13 @@ confirming the resource barrier documented in this project.
 
 ## Project Structure
 notebooks/
-├── 01_data_loading.ipynb     # Data acquisition and parsing
-├── 02_eda.ipynb              # Exploratory data analysis
-├── 03_preprocessing.ipynb   # Text cleaning and train/val/test split
-├── 04_baseline_models.ipynb # TF-IDF + Logistic Regression / SVM
-├── 05_transformer.ipynb     # XLM-RoBERTa fine-tuning
-├── 06_shap.ipynb            # Explainability analysis (SHAP) (H2)
-└── 07_resource_gap.ipynb    # Resource gap documentation (H3)
+├── 01_data_loading.ipynb         # Data acquisition and parsing
+├── 02_eda.ipynb                  # Exploratory data analysis
+├── 03_preprocessing.ipynb       # Text cleaning and train/val/test split
+├── 04_baseline_models.ipynb     # TF-IDF + Logistic Regression / SVM
+├── 05_transformer_experiments.ipynb  # XLM-RoBERTa fine-tuning
+├── 06_shap_explainability.ipynb  # SHAP analysis (H2)
+└── 07_resource_gap.ipynb        # Resource gap documentation (H3)
 
 ## Results
 
